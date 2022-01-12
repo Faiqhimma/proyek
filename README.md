@@ -1,2 +1,2 @@
-# proyek
+# proyek.github.io
 tugas perkuliahan
